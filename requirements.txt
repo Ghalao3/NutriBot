@@ -1,0 +1,33 @@
+# Interface & I/O
+gradio
+sounddevice
+
+# Audio & Speech
+faster-whisper
+
+# Vision
+transformers
+pillow
+
+# NLP & Translation
+deep-translator
+
+# LangChain & Vector DB
+langchain
+langchain-community
+langchain-openai
+chromadb
+langsmith
+
+# Embeddings & Models
+torch
+
+# Data Handling
+pandas
+PyMuPDF
+
+# Utilities
+openai
+python-dotenv
+requests
+numpy
