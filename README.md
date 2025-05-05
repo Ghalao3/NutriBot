@@ -129,4 +129,3 @@ The Gradio interface supports:
 - Add structured diet plans based on diagnosis
 - Expand to more languages (e.g., French, Spanish)
 - Mobile-first UI
-- Integration with real-time food APIs (e.g., USDA)
