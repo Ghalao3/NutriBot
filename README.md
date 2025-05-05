@@ -2,7 +2,6 @@
 
 NutriBot is a multimodal AI chatbot designed to deliver personalized, evidence-based dietary guidance using text, voice, or image inputs. It integrates OpenAIs GPT-4o, Whisper for audio transcription, BLIP for image captioning, and LangChain for retrieval-augmented question answering (RAG) using nutrition-focused documents and datasets.
 
----
 
 ##  Project Goals
 
@@ -12,7 +11,6 @@ NutriBot is a multimodal AI chatbot designed to deliver personalized, evidence-b
 - Offer dietary suggestions tailored to user health conditions.
 - Detect and minimize AI hallucinations with LangSmith.
 
----
 
 ##  Architecture Overview
 
@@ -27,7 +25,6 @@ NutriBot is a multimodal AI chatbot designed to deliver personalized, evidence-b
 | Memory           | LangChain ConversationBufferMemory |
 | Evaluation       | LangSmith API (Latency, Cost, Hallucinations) |
 
----
 
 ##  Methodology
 
@@ -54,7 +51,6 @@ NutriBot is a multimodal AI chatbot designed to deliver personalized, evidence-b
   - Detect hallucinations using keyword heuristics.
   - Compare output relevance.
 
----
 
 ##  Setup Instructions
 
@@ -82,7 +78,6 @@ OPENAI_API_KEY=your-openai-api-key
 LANGCHAIN_API_KEY=your-langsmith-api-key
 ```
 
----
 
 ##  Repository Structure
 
@@ -98,7 +93,6 @@ nutribot/
  app.py (optional)          # Deployment script for HuggingFace/Spaces
 ```
 
----
 
 ##  Usage Guide
 
@@ -120,7 +114,6 @@ The Gradio interface supports:
 - هل التفاح مفيد لارتفاع ضغط الدم
 - Upload a photo of a food item and ask, Is this healthy for someone with anemia?
 
----
 
 ##  Features
 
@@ -130,7 +123,6 @@ The Gradio interface supports:
 -  English/Arabic support
 -  Evaluation dashboard with LangSmith
 
----
 
 ##  Future Improvements
 
