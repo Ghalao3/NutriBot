@@ -64,7 +64,7 @@ git clone https://github.com/yourusername/nutribot.git
 cd nutribot
 ```
 
-### 2. Create virtual environment (optional but recommended)
+### 2. Create virtual environment
 ```bash
 python -m venv nutribot-env
 source nutribot-env/bin/activate  # Windows: nutribot-env\Scripts\activate
