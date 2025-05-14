@@ -92,7 +92,9 @@ nutribot/
  /utils                     # Image/audio processing helpers
  app.py (optional)          # Deployment script for HuggingFace/Spaces
 ```
-
+## Dataset Access  
+The full dataset (including the nutrition books) is available here:  
+[Click here to access the dataset](https://drive.google.com/drive/folders/1rPGB-AUg_nIGcKMcOSsp3I3lyUzvtfDh?usp=drive_link)
 
 ##  Usage Guide
 
