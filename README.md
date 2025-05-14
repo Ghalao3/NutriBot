@@ -109,7 +109,7 @@ python app.py
 
 You can watch a full demo of NutriBot in action at the following link:
 
-🔗 [NutriBot Deployment Demo (Google Drive)](https://drive.google.com/file/d/1tfI8nJMaLl4BngcDBiNepx-7GzbEusXR/view?usp=drive_link)
+🔗 [NutriBot Deployment Demo](https://drive.google.com/file/d/1tfI8nJMaLl4BngcDBiNepx-7GzbEusXR/view?usp=drive_link)
 
 This demo shows how to use NutriBot with different input types (text, voice, and image), how the chatbot responds to nutrition questions, and how the evaluation results are generated using LangSmith.
 
